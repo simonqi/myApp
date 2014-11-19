@@ -48,13 +48,13 @@
 	<dependencies>
 
 		<!-- Jackson JSON Mapper -->
-		<!-- SpringMVC的@ResponseBody需要使用 -->
+		<!-- SpringMVC的@ResponseBody需要使用 
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
 			<version>1.9.7</version>
 		</dependency>
-
+-->
 		<!-- SPRING begin -->
 		<!-- spring basic -->
 		<dependency>
